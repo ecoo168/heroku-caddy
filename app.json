@@ -1,6 +1,6 @@
 {
-    "name": "slitaz-cn",
-    "description": "slitaz-nas",
+    "name": "hisi-nas",
+    "description": "hisi-nas",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
